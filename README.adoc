@@ -1,11 +1,11 @@
 
 = IHO S-130 Polygonal Demarcations of Global Sea Areas
 
-image:https://github.com/metanorma/S-130-Product-Specification/actions/workflows/generate.yml/badge.svg["Build Status", link="https://github.com/metanorma/S-302-Product-Specification/actions/workflows/generate.yml"]
+image:https://github.com/iho-ohi/S-130-Product-Specification/actions/workflows/generate.yml/badge.svg["Build Status", link="https://github.com/metanorma/S-302-Product-Specification/actions/workflows/generate.yml"]
 
 This document is available in its rendered forms here:
 
-* https://iho-ohi.github.io/S-102-Product-Specification/[IHO S-130 (HTML)]
+* https://iho-ohi.github.io/S-130-Product-Specification/[IHO S-130 (HTML)]
 
 == Purpose
 
